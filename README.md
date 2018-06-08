@@ -1,25 +1,12 @@
-# ReduxSimpleStarter
+# YouTube Clone
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+A project created to learn React and Redux, using the [ReduxSimpleStarter](https://github.com/StephenGrider/ReduxSimpleStarter) template by Stephen Grider.
 
 ### Getting Started
 
-There are two methods for getting started with this repo.
-
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
-
-```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
-> npm install
-> npm start
-```
-
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
-
-```
-> npm install
-> npm start
+```sh
+$ git clone https://github.com/njgupta23/YouTube-Clone
+$ cd YouTue-Clone
+$ npm install
+$ npm start
 ```
