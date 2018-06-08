@@ -6,7 +6,7 @@ A project created to learn React and Redux, using the [ReduxSimpleStarter](https
 
 ```sh
 $ git clone https://github.com/njgupta23/YouTube-Clone
-$ cd YouTue-Clone
+$ cd YouTube-Clone
 $ npm install
 $ npm start
 ```
